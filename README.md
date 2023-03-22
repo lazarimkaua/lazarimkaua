@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🏠São Paulo - SP
+<br>
+📚Estudante do Sesi-069
+<br>
+👩‍💻Cursando técnico de Desenvolvimento de Sistemas
+<br>
+✉Email:lazarimkaua05@gmail.com 

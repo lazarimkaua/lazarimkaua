@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 👩‍💻 Cursando técnico de Desenvolvimento de Sistemas
 
 
-✉Email: lazarimkaua05@gmail.com 
+✉E-mail: lazarimkaua05@gmail.com 
 
 
 ## Ferramentas e Tecnologias

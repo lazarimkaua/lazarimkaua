@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height= "70" width= "70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  height= "70" width= "70" />
           
           
+          
 
 
 ## Estou aprendendo
@@ -40,3 +41,9 @@ Here are some ideas to get you started:
           
           
           
+## Painel
+<div> 
+<a href="https://github.com/lazarimkaua"> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazarimkaua&layout=compact&langs_count=7&theme=dracula"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lazarimkaua&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+</div>

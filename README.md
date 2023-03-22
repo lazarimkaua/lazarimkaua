@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🏠São Paulo - SP
+🏠 São Paulo - SP
 
 
-📚Estudante do Sesi-069
+📚 Estudante do Sesi-069
 
 
-👩‍💻Cursando técnico de Desenvolvimento de Sistemas
+👩‍💻 Cursando técnico de Desenvolvimento de Sistemas
 
 
-✉Email:lazarimkaua05@gmail.com 
+✉Email: lazarimkaua05@gmail.com 
 
 
 ## Ferramentas e Tecnologias

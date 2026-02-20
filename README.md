@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 📚 Estudante do Sesi-069
 
 
-👩‍💻 Cursando técnico de Desenvolvimento de Sistemas
+👩‍💻 Cursando Ciências da Computação
+
+Formado em ADS - Senai
 
 
 ✉ E-mail: lazarimkaua05@gmail.com 
